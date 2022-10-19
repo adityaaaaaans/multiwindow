@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="20dp"
+    android:orientation="vertical"
+    tools:context=".Berita">
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Tragedi Kanjuruhan"
+    android:textSize="30dp"
+    android:textFontWeight="@android:integer/config_longAnimTime"/>
+
+<TextView
+    android:id="@+id/berita"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:scrollbars="vertical"
+    android:textSize="18dp"
+    android:text="Baru pekan lalu muncul kabar duka serupa, ketika pihak kepolisian mengonfirmasi adanya korban jiwa yang ke-131. Duka itu rupanya belum kunjung berhenti karena pekan ini satu nyawa melayang lagi.Jumlah korban meninggal dunia di dalam Tragedi Kanjuruhan ini merupakan yang terbesar kedua di dalam sejarah sepakbola dunia.Tragedi yang paling banyak memakan korban jiwa dalam sejarah sepakbola terjadi di Lima, Peru, pada tahun 1964. Pada saat itu 328 lebih nyawa suporter melayang
+Baca artikel sepakbola, Kabar Duka... Korban Jiwa Tragedi Kanjuruhan Kembali BertambahDownload Apps Detikcom Sekarang https://apps.detik.com/detik/"
+    />
+
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>
